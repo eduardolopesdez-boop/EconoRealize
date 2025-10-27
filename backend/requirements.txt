@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+requests
+python-dateutil
+pyarrow
+streamlit
+jinja2
+reportlab
